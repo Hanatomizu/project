@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+header
+{
+    position: relative;
+    margin: 0;
+    height: 80px;
+    width: auto;
+    
+}
+/* #header-background{
+    position: absolute;
+    margin: 0;
+    height: 80px;
+    width: auto;
+} */
+#header-title-container{
+    position: absolute;
+    margin: 0;
+}
+#header-title-name, #header-title-name-second
+{
+    margin: 0;
+    padding-top: 1px;
+    padding-left: 20px;
+    font-family: monospace;
+}
+#header-title-name{
+    font-size: 36px;
+    color: magenta;
+
+}
+#header-title-name-second{
+    font-size: 18px;
+    padding-left: 36px;
+    color: aliceblue;
+}
+.header-selection-container{
+    margin: 0;
+    padding: 0;
+    margin-left: 60%;
+}
