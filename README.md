@@ -1,4 +1,4 @@
 # hanatomizu.github.io
-##### A website for モモサワホシゾラ (hanatomizu)
+##### A website for Dream_Team(DreamTeam Project) members!
 ---
-##### This website made is a main-page of Hanatomizu, and maybe Dream_Team
+##### This website made by Dream_Team
