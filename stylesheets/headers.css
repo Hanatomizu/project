@@ -42,3 +42,21 @@ header
     padding: 0;
     margin-left: 60%;
 }
+#header-selections-container ul{
+    list-style: none;
+}
+#header-selections-container li{
+    display: inline;
+    margin: auto 20px;
+    font-size: 25px;
+}
+#header-selections-container li a{
+    color:aliceblue;
+    text-decoration: none;
+    line-height: 40px;
+    font-family: sans-serif;
+}
+#header-selections-contaier li a:hover{
+    color: magenta;
+    background-color: white;
+}
